@@ -13,7 +13,7 @@
             <div class="col-md-6 service-image">
                 <img src="./images/service-image.png" alt="service-image" class="w-100 h-100">
             </div>
-            <div class="col-md-6 px-5 pt-2">
+            <div class="col-md-6 px-5 pt-2 service-content">
                 <h3 class="heading pb-3">
                     <img src="./images/Rectangle 7.png" alt="rectangle">
                     Our Services

@@ -60,12 +60,11 @@
                                 </div>
                             </form>
                         </div>
-                    </div>
-                    
+                    </div>  
                 </div>
             </div>
-            <div class="col-md-12 d-flex justify-content-between mt-5 px-2">
-                <div class="col-md-6 bg-white shadow-lg">
+            <div class="contact-grid mt-5 px-2">
+                <div class="bg-white shadow-lg">
                     <div class="m-4">
                         <iframe 
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61117.77933118257!2d96.16168243032722!3d16.783579389730708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30c1ed9f03562225%3A0xfff9d538f2e3d093!2sTamwe%20Township%2C%20Yangon!5e0!3m2!1sen!2smm!4v1721881792452!5m2!1sen!2smm" 
@@ -94,7 +93,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 mx-3 bg-white shadow-lg">
+                <div class="mx-3 bg-white shadow-lg">
                     <div class="m-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3700.111947752042!2d96.09145217499987!3d21.96866615483481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30cb6d0fbcacbdad%3A0xdad819c621ee087c!2s35th%20St%2C%20Mandalay!5e0!3m2!1sen!2smm!4v1721881915057!5m2!1sen!2smm"
                             class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">

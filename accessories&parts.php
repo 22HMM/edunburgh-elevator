@@ -10,7 +10,7 @@
     </div>
     <div class="container wrapper">
         <div class="row">
-            <div class="col-md-3 col-lg-4">
+            <div class="col-md-5 col-lg-4 col-xl-3 col-sm-12 product-nav">
                 <ul class="items">
                     <li>
                         <img src="./images/brown-vector.png" alt="brown vector">
@@ -24,7 +24,7 @@
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="lift-platform.php">Lift Platform</a>
                     </li>
-                    <li>
+                    <li class="overflow-text">
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="observation-elevator.php">High-end Observation Elevator</a>
                     </li>
@@ -36,7 +36,7 @@
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="escalators.php">Escalators</a>
                     </li>
-                    <li>
+                    <li class="overflow-text">
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="mechanical-parking-system.php">Mechanical Parking System</a>
                     </li>
@@ -46,7 +46,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-md-8 col-lg-8 acessories_parts">
+            <div class="col-md-7 col-lg-8 col-xl-9 col-sm-12 product-desc acessories_parts">
                 <h3 class="heading">
                     <img src="./images/brown-rectangle.png" alt="brown rectangle">
                     Accessories & Parts
@@ -54,13 +54,13 @@
                 <div class="row pt-5 main-content">
                     <div class="col-md-6 pe-5 mb-5">
                         <div class="row">
-                            <img src="./images/accessoriesandparts.jpg" alt="accessories and parts" class="mt-5">
+                            <img src="./images/accessoriesandparts.jpg" alt="accessories and parts">
                         </div>
                     </div>
                     <div class="col-md-6 pe-5 mb-5">
-                        <h3 class="heading mt-3 mb-3">
+                        <h5 class="heading mt-3 mb-3">
                             Intelligent Dispatching
-                        </h3>
+                        </h5>
                         <ul>
                             <li class="mb-3">
                                 linkage dispatching of pedestrian gate and 
@@ -68,12 +68,12 @@
                             </li>
                             <li> Face Recognition Machine</li>
                         </ul>
-                        <p style="text-indent: 35px;">
+                        <p class="text-index">
                             The use of face recognition machine, detection, identification of personnel and their floor, by the intelligent 
                             elevator scheduling arrange the elevator to the waiting hall to pick up personnel; At the same time, the ladder 
                             number is displayed on the screen Of the face recognition machine.
                         </p>
-                        <p style="text-indent: 25px;">
+                        <p class="text-index">
                             Interworking with the elevator, to achieve real "personnel non-inductive communication", using KeyFree 
                             visitor management app, to provide visitors with two-dimensional code access gate and ladder humanized 
                             service, to achieve efficient management of visitors.
@@ -86,16 +86,16 @@
                     </div>
                     <div class="col-md-6 pe-5 mb-5">
                         <h5 class="heading mt-3 mb-3">Intelligent Group Control Dispatching</h5>
-                        <p>
+                        <p class="text-index">
                             The system organizes the passengers that travelling on the same floor to same elevator.
                         </p>
-                        <p>
+                        <p class="text-index">
                             Avoiding multiple stops for passengers traveling on multiple floors on the same elevator.
                         </p>
-                        <p>
+                        <p class="text-index">
                             Reducing the number of comprehensive stops for group controlled elevators. Improving comprehensive operational efficiency.
                         </p>
-                        <p>
+                        <p class="text-index">
                             Reducing the comprehensive running time of group controlled elevators, Passenger entry and exit time and door opening and closing time.Reducing improving comprehensive transportation efficiency.
                         </p>
                     </div>

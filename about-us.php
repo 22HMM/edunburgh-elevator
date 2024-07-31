@@ -137,9 +137,9 @@
             <div class="col-md-12">
                 <div class="row">
                     <div class="col-md-4">
-                        <div class="card me-3 mt-5">
+                        <div class="card me-3 mt-3">
                             <img src="./images/group1.png" alt="group1">
-                            <div class="card-body">
+                            <div class="card-body bottom-text">
                                 <p class="text-center">Edunburgh Elevator Group Headquarter</p>
                                 <p class="text-center">爱登堡电梯集团<span class="text-danger fw-bold">(全球总部·上海)</span></p>
                             </div>
@@ -147,9 +147,9 @@
                     </div>
                     
                     <div class="col-md-4">
-                        <div class="card me-3 mt-5">
+                        <div class="card me-3 mt-3">
                             <img src="./images/group2.png" alt="group2">
-                            <div class="card-body">
+                            <div class="card-body bottom-text">
                                 <p class="text-center">Edunburgh Elevator Jiangsu Ltd.</p>
                                 <p class="text-center">爱登堡电梯<span class="text-danger fw-bold">(江苏)</span>有限公司</p>
                             </div>
@@ -157,28 +157,29 @@
                     </div>
                     
                     <div class="col-md-4">
-                        <div class="card me-3 mt-5">
+                        <div class="card me-3 mt-3">
                             <img src="./images/group3.png" alt="group3">
-                            <div class="card-body">
-                                <p class="text-center mt-2">Edunburgh Elevator Group Headquarter</p>
+                            <div class="card-body bottom-text">
+                                <p class="text-center">Edunburgh Elevator Group Headquarter</p>
                                 <p class="text-center">爱登堡电梯<span class="text-danger fw-bold">(贵州)</span>有限公司</p>
                             </div>
                         </div>
                     </div>  
-                </div>   <div class="row">
+                </div>   
+                <div class="row">
                     <div class="col-md-4">
-                        <div class="card me-3 mt-5">
+                        <div class="card me-3 mt-3">
                             <img src="./images/group4.png" alt="group4">
-                            <div class="card-body">
+                            <div class="card-body bottom-text">
                                 <p class="text-center">Edunburgh Elevator Group Headquarter</p>
                                 <p class="text-center">爱登堡电梯集团<span class="text-danger fw-bold">(欧洲总部·德国)</span></p>
                             </div>
                         </div>
                     </div>    
                     <div class="col-md-4">
-                        <div class="card me-3 mt-5">
+                        <div class="card me-3 mt-3">
                             <img src="./images/group5.png" alt="group5">
-                            <div class="card-body">
+                            <div class="card-body bottom-text">
                                 <p class="text-center">Edunburgh Elevator Group Headquarter</p>
                                 <p class="text-center">
                                 爱登堡电梯<span class="text-danger fw-bold">(湖北)</span>有限公司</p>
@@ -186,9 +187,9 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="card me-3 mt-5">
+                        <div class="card me-3 mt-3">
                             <img src="./images/group6.png" alt="group6">
-                            <div class="card-body">
+                            <div class="card-body bottom-text">
                                 <p class="text-center">Edunburgh Elevator Group Headquarter</p>
                                 <p class="text-center">爱登堡<span class="text-danger fw-bold">(临港)</span>智能楼宇研发中心</p>
                             </div>

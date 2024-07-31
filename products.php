@@ -10,7 +10,7 @@
     </div>
     <div class="container wrapper">
         <div class="row">
-            <div class="col-md-4 col-lg-4 col-xl-3 pe-3">
+            <div class="col-md-5 col-lg-4 col-xl-3 pe-3 product-nav col-sm-12">
                 <ul class="items">
                     <li class="sub-title">
                         <img src="./images/Vector.png" alt="vector">
@@ -24,7 +24,7 @@
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="lift-platform.php">Lift Platform</a>
                     </li>
-                    <li>
+                    <li class="overflow-text">
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="observation-elevator.php">High-end Observation Elevator</a>
                     </li>
@@ -36,7 +36,7 @@
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="escalators.php">Escalators</a>
                     </li>
-                    <li>
+                    <li class="overflow-text">
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="mechanical-parking-system.php">Mechanical Parking System</a>
                     </li>
@@ -46,7 +46,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-md-8 col-lg-8 col-xl-9 main-content">
+            <div class="col-md-7 col-lg-8 col-xl-9 col-sm-12 product-desc">
                 <h3 class="heading">
                     <img src="./images/brown-rectangle.png" alt="brown rectangle">
                     High-end Car
@@ -375,7 +375,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row pt-5 gap-5 main-content">
+                <div class="row pt-5 gap-5 p-content">
                     <div class="col-md-4 pb-5">
                         <img src="./images/high-end-car-p8.png" alt="product8" class="w-100">
                     </div>

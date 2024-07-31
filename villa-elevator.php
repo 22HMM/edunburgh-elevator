@@ -10,7 +10,7 @@
     </div>
     <div class="container wrapper">
         <div class="row">
-            <div class="col-md-3 col-lg-4">
+            <div class="col-sm-12 col-md-5 col-lg-4 col-xl-3 col-sm-12 product-nav">
                 <ul class="items">
                     <li>
                         <img src="./images/brown-vector.png" alt="brown vector">
@@ -24,11 +24,11 @@
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="lift-platform.php">Lift Platform</a>
                     </li>
-                    <li>
+                    <li class="overflow-text">
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="observation-elevator.php">High-end Observaton Elevator</a>
                     </li>
-                    <li>
+                    <li class="overflow-text">
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="passenger-elevator.php">Passenger Elevator</a>
                     </li>
@@ -36,17 +36,17 @@
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="escalators.php">Escalators</a>
                     </li>
-                    <li>
+                    <li class="overflow-text">
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="mechanical-parking-system.php">Mechanical Parking System</a>
                     </li>
-                    <li>
+                    <li class="overflow-text">
                         <img src="./images/brown-vector.png" alt="brown vector">
-                        <a href="accessories-parts.php">Accessories & Parts</a>
+                        <a href="accessories&parts.php">Accessories & Parts</a>
                     </li>
                 </ul>
             </div>
-            <div class="col-md-8">
+            <div class="col-sm-12 col-md-7 col-lg-8 col-xl-9 col-sm-12 product-desc">
                 <h3 class="heading">
                     <img src="./images/brown-rectangle.png" alt="brown rectangle">
                     High-end Villa Elevator
@@ -100,7 +100,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row pt-5 gap-5 main-content">
+                <div class="row pt-5 gap-5 p-content">
                     <div class="col-md-4 pb-5">
                         <img src="./images/villa-elevator2.png" alt="villa elevator 2" class="w-100">
                     </div>

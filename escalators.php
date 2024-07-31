@@ -10,8 +10,8 @@
     </div>
     <div class="container wrapper escalators">
         <div class="row">
-            <div class="col-md-3 col-lg-4">
-                <ul>
+            <div class="col-md-5 col-lg-4 col-xl-3 col-sm-12 product-nav">
+                <ul class="items">
                     <li>
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="products.php">High-end Car</a>
@@ -24,7 +24,7 @@
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="lift-platform.php">Lift Platform</a>
                     </li>
-                    <li>
+                    <li class="overflow-text">
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="observation-elevator.php">High-end Observation Elevator</a>
                     </li>
@@ -36,7 +36,7 @@
                         <img src="./images/Vector.png" alt="vector">
                         <a href="escalators.php">Escalators</a>
                     </li>
-                    <li>
+                    <li class="overflow-text">
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="mechanical-parking-system.php">Mechanical Parking System</a>
                     </li>
@@ -46,16 +46,16 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-md-9 col-lg-8 ps-5 pe-3">
-                <h3 class="heading py-4">
+            <div class="col-md-7 col-lg-8 col-xl-9 col-sm-12 product-desc pe-3">
+                <h3 class="heading">
                     <img src="./images/brown-rectangle.png" alt="brown rectangle">
                     Escalators
                 </h3>
-                <div class="row">
+                <div class="row p-content">
                     <div class="col-md-6">
                         <div class="m-3">
                             <img src="./images/escalator1.png" alt="escalator1" class="w-100">
-                            <p class="py-4 header">
+                            <p class="pt-4 header">
                                 Commercial Escalator (Indoor, Outdoor)
                             </p>
                             <p class="pb-4">
@@ -68,7 +68,7 @@
                     <div class="col-md-6">
                         <div class="m-3">
                             <img src="./images/escalator2.png" class="w-100" alt="escalator2">
-                            <p class="py-4 header">
+                            <p class="pt-4 header">
                                 Humanity Design
                             </p>
                             <p class="pb-4">
@@ -78,11 +78,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="row mt-4">
+                <div class="row p-content mt-4">
                     <div class="col-md-6">
                         <div class="m-3">
                             <img src="./images/escalator3.png" alt="escalator3" class="w-100">
-                            <p class="py-4 header">
+                            <p class="pt-4 header">
                                 Public Transportation Type Escalator (Indoor, Outdoor)
                             </p>
                             <p class="pb-4">
@@ -94,7 +94,7 @@
                     <div class="col-md-6">
                         <div class="m-3">
                             <img src="./images/escalator4.png" class="w-100" alt="escalator4">
-                            <p class="py-4 header">
+                            <p class="pt-4 header">
                                 Automatic Sidewalk (Indoor, Outdoor)
                             </p>
                             <p class="pt-4 pb-4">

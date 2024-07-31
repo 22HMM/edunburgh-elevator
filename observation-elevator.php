@@ -10,7 +10,7 @@
     </div>
     <div class="container wrapper">
         <div class="row">
-            <div class="col-md-3 col-lg-4">
+            <div class="col-md-5 col-lg-4 col-xl-3 col-sm-12 product-nav">
                 <ul class="items">
                     <li>
                         <img src="./images/brown-vector.png" alt="brown vector">
@@ -24,7 +24,7 @@
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="lift-platform.php">Lift Platform</a>
                     </li>
-                    <li class="sub-title">
+                    <li class="sub-title overflow-text">
                         <img src="./images/Vector.png" alt="vector">
                         <a href="observation-elevator.php">High-end Observation Elevator</a>
                     </li>
@@ -36,7 +36,7 @@
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="escalators.php">Escalators</a>
                     </li>
-                    <li>
+                    <li class="overflow-text">
                         <img src="./images/brown-vector.png" alt="brown vector">
                         <a href="mechanical-parking-system.php">Mechanical Parking System</a>
                     </li>
@@ -46,12 +46,12 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7 col-lg-8 col-xl-9 col-sm-12 product-desc">
                 <h3 class="heading">
                     <img src="./images/brown-rectangle.png" alt="brown rectangle">
                     High-end Observation Elevator
                 </h3>
-                <div class="row pt-5 gap-5 main-content">
+                <div class="row pt-5 pb-3 gap-5 main-content">
                     <div class="col-md-4">
                         <img src="./images/observation-elevator1.png" alt="observassion-elevator1" class="w-100">
                     </div>
@@ -72,39 +72,39 @@
                                     Black Titanium Hairline Stainless Steel(HSS Patterns can be Choose)
                                 </span>
                             </div>
-                            <div class="mt-2 col-md-12 mb-3">
+                            <div class="mt-2 col-md-12">
                                 <span class="content-title">Front Wall : </span>
                                 <span>
                                     Black Titanium Hairline Stainless Steel(HSS Patterns can be Choose), 
                                     Multimedia Display, Door Transom Display
                                 </span>
                             </div>
-                            <div class="mt-2 col-md-12 mb-3">
+                            <div class="mt-2 col-md-12">
                                 <span class="content-title">Side Wall : </span>
                                 <span>
                                     Black Titanium Hairline Stainless Stee! 
                                     With Black Titanium etched Stainless Steel and Glass(HSS Patterns can be Choose)
                                 </span>
                             </div>
-                            <div class="mt-2 col-md-12 mb-3">
+                            <div class="mt-2 col-md-12">
                                 <span class="content-title">Rear Wall : </span>
                                 <span>
                                     Glass
                                 </span>
                             </div>
-                            <div class="mt-2 col-md-12 mb-3">
+                            <div class="mt-2 col-md-12">
                                 <span class="content-title">Handrail : </span>
                                 <span>
                                     Hairline Stainless Steel (HA-11)
                                 </span>
                             </div>
-                            <div class="mt-2 col-md-12 mb-3">
+                            <div class="mt-2 col-md-12">
                                 <span class="content-title">Floor : </span>
                                 <span>
                                     Marble Floor (FL-35)
                                 </span>
                             </div>
-                            <div class="mt-2 col-md-12 mb-3">
+                            <div class="mt-2 col-md-12">
                                 <span class="content-title">Optional : </span>
                                 <span>
                                     Double COP
@@ -113,7 +113,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row pt-5 gap-5">
+                <div class="row pt-5 gap-5 p-content">
                     <div class="col-md-4">
                         <img src="./images/observation-elevator2.png" alt="observation-elevator2" class="w-100">
                     </div>
