@@ -24,20 +24,34 @@
                   </button>
                   <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                     <ul class="navbar-nav">
+                      <?php
+                        $activePage = basename($_SERVER['PHP_SELF'],".php");
+                      ?>
                       <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+                        <a class="nav-link <?= $activePage == 'index' ? 'active' : '';?>" aria-current="page" href="index.php"
+                          style="<?= $activePage == 'index' ? 'border-bottom: 3px solid red;' : ''; ?>"
+                        >Home</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="about-us.php">About Us</a>
+                        <a class="nav-link <?= $activePage == 'about-us' ? 'active' : '';?>"" href="about-us.php"
+                        style="<?= $activePage == 'about-us' ? 'border-bottom: 3px solid red;' : ''; ?>"
+                        >
+                        About Us</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="products.php">Our Products</a>
+                        <a class="nav-link <?= $activePage == 'products' ? 'active' : '';?>"" href="products.php"
+                        style="<?= $activePage == 'products' ? 'border-bottom: 3px solid red;' : ''; ?>"
+                        >Our Products</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="services.php">Our Services</a>
+                        <a class="nav-link  <?= $activePage == 'services' ? 'active' : '';?>"" href="services.php"
+                        style="<?= $activePage == 'services' ? 'border-bottom: 3px solid red;' : ''; ?>"
+                        >Our Services</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="contact-us.php">Contact Us</a>
+                        <a class="nav-link  <?= $activePage == 'contact-us' ? 'active' : '';?>"" href="contact-us.php"
+                        style="<?= $activePage == 'contact-us' ? 'border-bottom: 3px solid red;' : ''; ?>"
+                        >Contact Us</a>
                       </li>
                     </ul>
                   </div>

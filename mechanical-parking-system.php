@@ -51,7 +51,7 @@
                     <img src="./images/brown-rectangle.png" alt="brown rectangle">
                     Mechanical Parking System
                 </p>
-                <div class="row align-items-center main-content">
+                <div class="row main-content">
                     <div class="col-md-6">
                         <div class="m-3">
                             <img src="./images/parking1.png" alt="parking1" class="w-100">
@@ -69,7 +69,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center mt-3">
+                <div class="row mt-3">
                     <div class="col-md-6">
                         <div class="m-3">
                             <img src="./images/parking3.png" alt="parking3" class="w-100">

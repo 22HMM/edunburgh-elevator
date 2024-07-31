@@ -93,7 +93,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="mx-3 bg-white shadow-lg">
+                <div class="bg-white shadow-lg">
                     <div class="m-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3700.111947752042!2d96.09145217499987!3d21.96866615483481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30cb6d0fbcacbdad%3A0xdad819c621ee087c!2s35th%20St%2C%20Mandalay!5e0!3m2!1sen!2smm!4v1721881915057!5m2!1sen!2smm"
                             class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
