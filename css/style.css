@@ -386,6 +386,9 @@ li {
   padding-left: 5px;
   font-family: var(--main-font);
 }
+.services p {
+  line-height: 30px;
+}
 /* contact-us */
 .contact-us .content {
   margin: 80px 100px;
