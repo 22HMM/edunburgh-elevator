@@ -1,24 +1,24 @@
 <?php include_once('header.php'); ?>
 <main class="about-us-content">
     <div class="row position-relative">
-        <img src="./images/img2 1.png" alt="banner">
+        <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
-            <h3 class="heading">About Us</h3>
-            <span>Home /  </span>
-            <span class="text-warning">About Us</span>
+            <h3 class="header">About us</h3>
+            <span class="home">Home /  </span>
+            <span class="banner-navlink">About Us</span>
         </div>
     </div>
-    <div class="container wrapper ps-3">
+    <div class="container wrapper pe-4">
         <div class="row justify-content-between">
             <div class="col-md-5">
                 <img src="./images/about-image.png" alt="content-image2" class="ps-2 w-100 h-100">
             </div>
-            <div class="col-md-6 mt-3 content1">
+            <div class="col-md-6 content1">
                 <h3 class="heading content-heading mb-4">
                     <img src="./images/Rectangle 7.png" alt="rectangle">
                     About Edunburgh
                 </h3>
-                <p>
+                <p class="mb-0">
                     Edunburgh Elevator Group INC. (Edunburgh Elevator for short) is a professional chain group of joint-stock company who is focus on elevator R&D and manufacturing of the entire industrial. Edunburgh Elevator head- quartered in Shanghai, the Global Financial Center. Edunburgh Elevator Group industry covers five sections: Manufacturing of Elevator, Intelligent Building, Industrial Park, Education and Training, D H S Network Technology, It has built the technology manufacturing aircraft carrier of elevator industry, which represents the leading technology of elevator industry, is the incubator of emerging technology and the cradle of future industry leader. In the field of elevator manufacturing industry. 
                     Edunburgh Elevator has built four intelligent manufacturing bases with Germany and Shanghai China as two R & D centers, which 
                     has truly realized the global strategic goal of International Resource Co-ordination and World Factory Division, It promotes the production 

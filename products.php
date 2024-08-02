@@ -1,11 +1,11 @@
 <?php include_once('header.php'); ?>
 <main class="products">
     <div class="row position-relative">
-        <img src="./images/img2 1.png" alt="banner">
+        <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
-            <h3 class="heading">Products</h3>
-            <span>Home /  </span>
-            <span class="text-warning">Products</span>
+            <h3 class="header">Our Products</h3>
+            <span class="home">Home /  </span>
+            <span class="banner-navlink">Products</span>
         </div>
     </div>
     <div class="container wrapper">
@@ -51,8 +51,8 @@
                     <img src="./images/brown-rectangle.png" alt="brown rectangle">
                     High-end Car
                 </h3>
-                <div class="row pt-3 gap-5 main-content">
-                    <div class="col-md-4">
+                <div class="row py-5 gap-5 main-content">
+                    <div class="col-md-4 mb-4">
                         <img src="./images/high-end-car-p1.png" alt="product1" class="w-100">
                     </div>
                     <div class="col-md-6 content mb-4">
@@ -97,7 +97,7 @@
                     <div class="col-md-4">
                         <img src="./images/high-end-car-p2.png" alt="product2" class="w-100">
                     </div>
-                    <div class="col-md-6 mb-4">
+                    <div class="col-md-6 content mb-4">
                         <div class="row pb-5">
                             <h5 class="pb-2 col-md-12">EC- 810 </h5>
                             <div class="mt-2 col-md-12">
@@ -146,7 +146,7 @@
                     <div class="col-md-4">
                         <img src="./images/high-end-car-p3.png" alt="product3" class="w-100">
                     </div>
-                    <div class="col-md-6 mb-4">
+                    <div class="col-md-6 mb-4 content">
                         <div class="row pb-5">
                             <h5 class="pb-2 col-md-12">EC- 823 </h5>
                             <div class="mt-2 col-md-12">

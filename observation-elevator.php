@@ -1,7 +1,7 @@
 <?php include_once('header.php'); ?>
 <main class="products">
     <div class="row position-relative">
-        <img src="./images/img2 1.png" alt="banner">
+        <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
             <h3 class="heading">Products</h3>
             <span>Home /  </span>
@@ -52,10 +52,10 @@
                     High-end Observation Elevator
                 </h3>
                 <div class="row pt-5 pb-3 gap-5 main-content">
-                    <div class="col-md-4">
+                    <div class="col-md-4 mb-5">
                         <img src="./images/observation-elevator1.png" alt="observassion-elevator1" class="w-100">
                     </div>
-                    <div class="col-md-6 content">
+                    <div class="col-md-6">
                         <div class="row mt-3">
                             <h5 class="pb-2 col-md-12">EC- 930 </h5>
                             <div class="mt-2 col-md-12">

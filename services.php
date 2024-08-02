@@ -1,11 +1,11 @@
 <?php include_once('header.php') ?>
 <main class="services">
     <div class="row position-relative">
-        <img src="./images/img2 1.png" alt="banner">
+        <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
-            <h3 class="heading">Our Services</h3>
-            <span>Home /  </span>
-            <span class="text-warning">Our Services</span>
+            <h3 class="header">Our Services</h3>
+            <span class="home">Home /  </span>
+            <span  class="banner-navlink">Our Services</span>
         </div>
     </div>
     <div class="container wrapper">

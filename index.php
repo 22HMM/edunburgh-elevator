@@ -1,7 +1,7 @@
 <?php include_once('header.php') ?>
 <main>
     <div class="row g-0 relative">
-        <img src="./images/banner.png" alt="banner">
+        <img src="./images/banner.png" alt="banner" class="w-100">
         <div class="row">
             <div class="col-md-6">
                 <h3 class="banner-heading col-md-3 col-sm-6">Using Technologies to Breed Modern Life Happiness</h3>
@@ -11,7 +11,7 @@
 
                     <div class="carousel-inner" role="listbox">
                         <div class="carousel-item active">
-                            <div class="row g-lg-5 g-md-3 g-sm-1">
+                            <div class="row g-lg-2 g-md-3 g-sm-1">
                                 <div class="col-md-4 col-sm-4 fade_effect">
                                     <img src="./images/banner-image1.png" alt="banner-image1" class="w-100 h-100">
                                 </div>
@@ -24,7 +24,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <div class="row g-lg-5 g-md-3 g-sm-1">
+                            <div class="row g-lg-2 g-md-3 g-sm-1">
                                 <div class="col-md-4 col-sm-4 fade_effect">
                                     <img src="./images/villa-elevator1.png" alt="villa elevator" class="w-100 h-100">
                                 </div>
@@ -37,7 +37,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <div class="row g-lg-5 g-md-3 g-sm-1">
+                            <div class="row g-lg-2 g-md-3 g-sm-1">
                                 <div class="col-md-4 col-sm-4 fade_effect">
                                     <img src="./images/escalator1.png" alt="escalator1" class="w-100" height="326">
                                 </div>
@@ -100,7 +100,7 @@
     <div class="product-main-content">
         <div class="container product-content py-5">
             <h3 class="heading mb-5 ps-4">Our Products</h3>
-            <div class="row">
+            <div class="row pt-3">
                 <div class="col-md-12">
                     <div class="grid-product-container">
                         <div class="grid-item">
@@ -120,7 +120,7 @@
                             <p class="bottom-text w-100">Passenger Elevator</p>
                         </div>
                         <div class="grid-item">
-                            <img src="./images/banner-image1.png" alt="product-5" class="w-100">
+                            <img src="./images/16.png" alt="passenger-elevator" class="w-100">
                             <p class="bottom-text w-100">Passenger Elevator</p>
                         </div>
                     </div>
@@ -156,9 +156,9 @@
         </div>
     </div>
     <div class="partners">
-        <div class="container partner-content">
+        <div class="container partner-content py-5">
             <h3 class="heading mb-5">Our Partners</h3>
-            <div class="row">
+            <div class="row pt-3">
                 <div class="col-md-12">
                     <div class="grid-container pe-3">
                         <img src="./images/p-1.png" alt="partner1" class="grid-item w-100">

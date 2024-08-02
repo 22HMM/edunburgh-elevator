@@ -1,7 +1,7 @@
 <?php include_once('header.php'); ?>
 <main class="products">
     <div class="row position-relative">
-        <img src="./images/img2 1.png" alt="banner">
+        <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
             <h3 class="heading">Products</h3>
             <span>Home /  </span>
@@ -55,7 +55,7 @@
                     <div class="col-md-4 mb-5">
                         <img src="./images/lift-platform1.png" alt="product1" class="w-100">
                     </div>
-                    <div class="col-md-6 content mb-5">
+                    <div class="col-md-6 lift-content mb-5">
                         <div class="row">
                             <h5 class="pb-2 col-md-12">EC- 693 </h5>
                             <div class="mt-2 col-md-12">
@@ -88,7 +88,7 @@
                     <div class="col-md-4">
                         <img src="./images/lift-platform2.png" alt="product2" class="w-100">
                     </div>
-                    <div class="col-md-6 content mb-4">
+                    <div class="col-md-6 lift-content mb-4">
                         <div class="row">
                             <h5 class="pb-2">EC- 693 </h5>
                             <div class="mt-2 mb-3">

@@ -1,7 +1,7 @@
 <?php include_once('header.php') ?>
 <main class="products">
     <div class="row position-relative">
-        <img src="./images/img2 1.png" alt="banner">
+        <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
             <h3 class="heading">Products</h3>
             <span>Home /  </span>

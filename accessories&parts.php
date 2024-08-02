@@ -1,7 +1,7 @@
 <?php include_once('header.php'); ?>
 <main class="products">
     <div class="row position-relative">
-        <img src="./images/img2 1.png" alt="banner">
+        <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
             <h3 class="heading">Products</h3>
             <span>Home /  </span>
@@ -105,30 +105,31 @@
                         <img src="./images/accessories&part3.png" alt="accessories and part 3" class="w-100">
                     </div>
                     <div class="col-md-6 mb-5 px-5">
-                        <h5>Cop</h5>
-                        <ul>
+                        <div class="row">
+                            <h5>Cop</h5>
                             <li>Mimor Stainless Steel</li>
                             <li>Rosegold Mimor Stainless Steel</li>
                             <li>Coffeegold Mimor Stainless Steel</li>
                             <li>Multimedia Display 10.4-inch/12.1-inch/15-inch</li>
-                        </ul>
+                        </div>
+                    
                         <div class="row">
-                            <p class="ps-0">Normal Button</p>
-                            <ul>
+                            <p>Normal Button</p>
+                            <div>
                                 <li>Round Button - MA 1001</li>
                                 <li>Round Button with Braille - MA 1004</li>
                                 <li>Square Button- MA 5201</li>
                                 <li>Square Button with Braille- MA 5204</li>
-                            </ul>
+                            </div>
                         </div>
                         <div class="row">
                             <p>Option Button</p>
-                            <ul>
+                            <div>
                                 <li>Acrylic Square Button - HA1T02</li>
                                 <li>Acrylic Rectangle Button- HA3500</li>
                                 <li>Acrylic Oval Button - BAMFC009</li>
                                 <li>Metal Characters Oval Button - BAMFA001</li>
-                            </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -138,7 +139,7 @@
                     </div>
                     <div class="col-md-6 px-5 mb-5">
                         <h5 class="heading mt-3 mb-3">Lop & Display</h5>
-                        <ul>
+                        <div>
                             <li>EB8</li>
                             <li>EB5</li>
                             <li>EB7</li>
@@ -148,7 +149,7 @@
                             <li>EN2</li>
                             <li>EW3</li>
                             <li>EB11</li>
-                        </ul>
+                        </div>
                     </div>
                 </div>
                 <div class="row pt-5 main-content">
@@ -157,18 +158,40 @@
                     </div>
                     <div class="col-md-6 px-5 mb-5">
                         <h5 class="heading mt-3 mb-3">Handrail Pattern</h5>
-                        <ul>
+                        <div>
                             <li>HA-13</li>
                             <li>HA-08</li>
                             <li>HA-01</li>
                             <li>HA-09</li>
                             <li>HA-10</li>
-                        </ul>
+                        </div>
                     </div>
                 </div>
                 <div class="row pt-5 main-content">
                     <div class="col-md-6 pe-5 mb-5">
-                        <img src="./images/accessories&part4.png" alt="accessories&parts" class="w-100 h-100">
+                        <img src="./images/accessories&part6.png" alt="accessories&parts 6" class="w-100">
+                    </div>
+                    <div class="col-md-6 px-5 mb-5">
+                        <h5 class="heading mt-3 mb-3">Floor Pattern</h5>
+                        <div class="row flex-columns">
+                            <div class="col-md-4">
+                                <li>FL-35</li>
+                                <li>FL-36</li>
+                                <li>FL-33</li>
+                                <li>FL-50</li>
+                            </div>
+                            <div class="col-md-4">
+                                <li>FL-32</li>
+                                <li>FL-31</li>
+                                <li>FL-51</li>
+                                <li>FL-52</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-5">
+                    <div class="col-md-6 pe-5 mb-5">
+                        <img src="./images/accessories&part7.png" alt="accessories&parts 7" class="w-100 h-100">
                     </div>
                     <div class="col-md-6 pe-5 ps-2 mb-5">
                         <h5 class="heading mt-3 mb-3">Landing Hall & Hall Lantern Pattern</h5>

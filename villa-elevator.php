@@ -1,7 +1,7 @@
 <?php include_once('header.php'); ?>
 <main class="products">
     <div class="row position-relative">
-        <img src="./images/img2 1.png" alt="banner">
+        <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
             <h3 class="heading">Products</h3>
             <span>Home /  </span>
@@ -61,55 +61,6 @@
                             <div class="mt-2 col-md-12">
                                 <span class="content-title">Ceiling : </span>
                                 <span>
-                                    Rose Gold Mirror Stainless Steel Frame, Middle Acrylic
-                                    Panel with LED Light
-                                </span>
-                            </div>
-                            <div class="mt-2 col-md-12">
-                                <span class="content-title">Ventilator : </span>
-                                <span>Axial Flow Fan at Both Sides</span>
-                            </div>
-                            <div class="mt-2 col-md-12">
-                                <span class="content-title">Car Door : </span>
-                                <span>Rose Gold Random Hairline Stainless Steel</span>
-                            </div>
-                            <div class="mt-2 col-md-12">
-                                <span class="content-title">Front Wall : </span>
-                                <span>
-                                    Rose Gold Random Hairline Stainless Steel
-                                </span>
-                            </div>
-                            <div class="mt-2 col-md-12">
-                                <span class="content-title">Side Wall : </span>
-                                <span>Rose Gold Weave Stainless Steel with Rose Gold
-                                Random Hairline Stainless Steel in Middle Panel</span>
-                            </div>
-                            <div class="mt-2 col-md-12">
-                                <span class="content-title">Rear Wall : </span>
-                                <span>
-                                    Rose Gold Weave Stainless Steel with Rose Gold
-                                    Random Hairline Stainless Steel in Middle Panel
-                                </span>
-                            </div>
-                            <div class="mt-2 col-md-12">
-                                <span class="content-title">Floor : </span>
-                                <span>
-                                    PVC (FL-52)
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row pt-5 gap-5 p-content">
-                    <div class="col-md-4 pb-5">
-                        <img src="./images/villa-elevator2.png" alt="villa elevator 2" class="w-100">
-                    </div>
-                    <div class="col-md-6 pb-5 mb-4">
-                        <div class="row pt-3">
-                            <h5 class="pb-2 col-md-12">EC- 890 </h5>
-                            <div class="mt-2 col-md-12">
-                                <span class="content-title">Ceiling : </span>
-                                <span>
                                     Rose Gold Mirror Stainless Steel ,Acrylic Lamp (EDT-23)
                                 </span>
                             </div>
@@ -147,6 +98,55 @@
                                 <span class="content-title">Optional : </span>
                                 <span>
                                     Marble Medallion (FL-32)
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-5 gap-5 p-content">
+                    <div class="col-md-4 pb-5">
+                        <img src="./images/villa-elevator2.png" alt="villa elevator 2" class="w-100">
+                    </div>
+                    <div class="col-md-6 pb-5 mb-4">
+                        <div class="row pt-3">
+                            <h5 class="pb-2 col-md-12">EC- 890 </h5>
+                            <div class="mt-2 col-md-12">
+                                <span class="content-title">Ceiling : </span>
+                                <span>
+                                    Rose Gold Mirror Stainless Steel Frame, Middle Acrylic
+                                    Panel with LED Light
+                                </span>
+                            </div>
+                            <div class="mt-2 col-md-12">
+                                <span class="content-title">Ventilator : </span>
+                                <span>Axial Flow Fan at Both Sides</span>
+                            </div>
+                            <div class="mt-2 col-md-12">
+                                <span class="content-title">Car Door : </span>
+                                <span>Rose Gold Random Hairline Stainless Steel</span>
+                            </div>
+                            <div class="mt-2 col-md-12">
+                                <span class="content-title">Front Wall : </span>
+                                <span>
+                                    Rose Gold Random Hairline Stainless Steel
+                                </span>
+                            </div>
+                            <div class="mt-2 col-md-12">
+                                <span class="content-title">Side Wall : </span>
+                                <span>Rose Gold Weave Stainless Steel with Rose Gold
+                                Random Hairline Stainless Steel in Middle Panel</span>
+                            </div>
+                            <div class="mt-2 col-md-12">
+                                <span class="content-title">Rear Wall : </span>
+                                <span>
+                                    Rose Gold Weave Stainless Steel with Rose Gold
+                                    Random Hairline Stainless Steel in Middle Panel
+                                </span>
+                            </div>
+                            <div class="mt-2 col-md-12">
+                                <span class="content-title">Floor : </span>
+                                <span>
+                                    PVC (FL-52)
                                 </span>
                             </div>
                         </div>
