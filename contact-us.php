@@ -41,7 +41,7 @@
                                 </div>
                                 <div class="row mb-4">
                                     <div class="col-md-12 form-group">
-                                        <lable class="form-label" for="username">Message * </lable>
+                                        <lable class="form-label" for="username">Message </lable>
                                         <textarea name="message" id="" cols="30" rows="5" class="form-control" placeholder="Enter your message"></textarea>
                                     </div>
                                 </div>

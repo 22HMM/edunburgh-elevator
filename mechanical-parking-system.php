@@ -3,9 +3,9 @@
     <div class="row position-relative">
         <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
-            <h3 class="heading">Products</h3>
-            <span>Home /  </span>
-            <span class="text-warning">Products</span>
+            <h3 class="header">Our Products</h3>
+            <span class="home">Home /  </span>
+            <span class="banner-navlink">Products</span>
         </div>
     </div>
     <div class="container wrapper parking">
@@ -47,10 +47,10 @@
                 </ul>
             </div>
             <div class="col-md-7 col-lg-8 col-xl-9 col-sm-12 product-desc">
-                <p class="header">
+                <h3 class="heading">
                     <img src="./images/brown-rectangle.png" alt="brown rectangle">
                     Mechanical Parking System
-                </p>
+                </h3>
                 <div class="row main-content">
                     <div class="col-md-6">
                         <div class="m-3">

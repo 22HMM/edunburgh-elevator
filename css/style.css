@@ -16,7 +16,6 @@ header .nav-link {
   font-family: var(--secondary-font);
   font-weight: 600;
   font-size: 16px;
-  font-family: ;
   border-bottom: 3px solid transparent;
 }
 
@@ -39,7 +38,7 @@ span {
 }
 main .banner-heading {
   font-family: var(--banner-heading-font);
-  font-weight: 550;
+  font-weight: 450;
   position: absolute;
   top: 300px;
   left: 280px;
@@ -269,17 +268,18 @@ main .partners {
 .banner-nav-text {
   position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  /* left: 50%;
+  transform: translate(-50%, -50%); */
   color: white;
 }
 .banner-nav-text h3 {
   font-size: 34px;
   font-family: var(--banner-heading-font);
   font-weight: 400;
+  margin-bottom: 0 !important;
 }
 .banner-nav-text span {
-  font-family: var(--banner-heading-font);
+  font-family: var(--banner-heading-font) !important;
 }
 .banner-nav-text .home {
   padding-left: 15px;
@@ -346,6 +346,9 @@ li {
 .products .main-content .content {
   padding: 65px 0;
 }
+.products .content .row div {
+  line-height: 25px !important;
+}
 .products h5 {
   font-family: var(--main-font);
   font-weight: bold;
@@ -354,7 +357,9 @@ li {
 .products span {
   font-size: 16px;
   font-family: var(--main-font);
+  line-height: 30px;
 }
+
 .products .content-title {
   font-weight: bold;
 }
@@ -385,6 +390,7 @@ li {
   line-height: 40px;
   padding-left: 5px;
   font-family: var(--main-font);
+  font-weight: 450;
 }
 .services p {
   line-height: 30px;
@@ -481,7 +487,6 @@ footer a,
     width: 380px;
     height: 380px;
     padding-right: 55px;
-    padding-top: 20px;
   }
   main .about-content .elevator-image {
     height: 290px;
@@ -499,12 +504,16 @@ footer a,
     display: grid;
     grid-template-columns: repeat(5,1fr) !important;
   }
+  .banner-nav-text h3 {
+    font-size: 24px !important;
+  }
   /* about us page */
   .about-us-content .content1 {
     margin-top: 0 !important;
   }
   .about-us-content p {
     font-size: 15px !important;
+    line-height: 20px !important;
   }
   .about-us-content .card-body {
     height: 90px !important;
@@ -512,6 +521,12 @@ footer a,
   /* products */
   .product-images {
     --bs-gutter-x: 0rem !important;
+  }
+  .products .product-ec-823 {
+    margin-top: 10px !important;
+  }
+  .products span {
+    line-height: 15px !important;
   }
   .products .main-content .content {
     padding: 0 !important;
@@ -616,12 +631,16 @@ footer a,
   .seemorebtn svg, .contact-us .messagebtn svg {
     width: 20px !important;
   }
+  .about-us-content .wrapper {
+    padding-right: 0 !important;
+  }
   .about-us-content .card-body {
-    height: 100px !important;
+    height: 80px !important;
   }
   .about-us-content p,
   .about-us-content span {
     font-size: 11px !important;
+    line-height: 15px !important;
   }
   .product-images {
     --bs-gutter-x: 1rem !important;
@@ -652,9 +671,13 @@ footer a,
   .products .acessories_parts p {
     line-height: 16px;
   }
+  .products span {
+    line-height: 5px !important;
+  }
   /* services */
   .services p {
     font-size: 11px !important;
+    line-height: 15px !important;
   }
   .services .service-content {
     padding-left: 0 !important;
@@ -728,6 +751,9 @@ footer a,
   
 }
 @media (max-width: 426px) and (min-width: 319px) {
+  .navbar-brand {
+    padding-left: 10px !important;
+  }
   .about-us-content .wrapper, .products .wrapper, .services .wrapper, .contact-us .wrapper, .partners {
     padding: 50px 0 !important;
   }
@@ -736,10 +762,10 @@ footer a,
     gap: 20px;
   }
   .grid-product-container .grid-item img {
-    height: 300px !important;
+    height: 250px !important;
   }
   header .logo {
-    width: 60px !important;
+    width: 65px !important;
   }
   .logo-letter {
     width: 120px !important;
@@ -794,10 +820,18 @@ footer a,
   main .about-content .elevator-image {
     display: none;
   }
+  .product-main-content .product-content {
+    padding: 0 30px !important;
+  }
   .product-content .escalator, .product-content .parking {
     height: 180px !important;
   }
-
+  main .partners {
+    margin: 0 20px;
+  }
+  main .partners .partner-content h3 {
+    margin-left: 10px !important;
+  }
   main .banner-images {
     top: 147px;
     left: 5px;
@@ -808,6 +842,16 @@ footer a,
   }
   main .content-image {
     padding: 0 30px !important;
+  }
+  .banner-nav-text h3 {
+    font-size: 16px !important;
+    line-height: 1px !important;
+  }
+  .banner-nav-text span {
+    font-size: 8px !important;
+  }
+  .grid-products {
+    grid-template-columns: repeat(1, 1fr);
   }
   /* about us */
   .about-us-content .card-body {
@@ -826,14 +870,33 @@ footer a,
     padding: 50px 0 !important;
   }
   .product-nav {
-    padding-left: 50px !important;
+    padding-left: 25px !important;
     padding-bottom: 20px !important;
   }
   .product-desc {
-    padding: 0 63px !important;
+    padding: 0 30px !important;
   }
   .products .items li {
-    width: 300px !important;
+    width: 330px !important;
+  }
+  .products .cop {
+    margin-left: 2px !important;
+    padding-left: 2px !important;
+    padding-right: 2px !important;
+  }
+  /* services */
+  .services .service-content {
+    padding: 10px 20px !important;
+  }
+  .service-content .heading {
+    padding-bottom: 0 !important;
+    padding-top: 5px !important;
+  }
+  .service-content p {
+    line-height: 20px !important;
+  }
+  .services .service-list {
+    padding: 10px 30px !important;
   }
   /* contact us */
   .contact-grid {
@@ -894,6 +957,9 @@ footer a,
     top: 126px !important;
     left: 5px !important;
   }
+  .products .product-nav {
+    padding-left: 25px !important;
+  }
   footer a {
     font-size: 14px !important;
     padding-left: 0 !important;
@@ -936,8 +1002,14 @@ footer a,
   }
 }
 @media (max-width: 320px) {
+  .grid-product-container .grid-item img {
+    height: 200px !important;
+  }
+  .navbar-brand {
+    padding-left: 10px !important;
+  }
   .navbar-brand .logo {
-    width: 40px;
+    width: 40px !important;
   }
   .navbar-brand .logo-letter {
     width: 80px !important;
@@ -955,6 +1027,22 @@ footer a,
   }
   .product-nav {
     padding-left: 10px !important;
+  }
+  .services .service-content {
+    padding: 10px 20px !important;
+  }
+  .service-content .heading {
+    padding-bottom: 0 !important;
+    padding-top: 5px !important;
+  }
+  .service-content p {
+    line-height: 20px !important;
+  }
+  .services .service-list {
+    padding: 10px 30px !important;
+  }
+  .contact-us .content {
+    margin: 80px 30px !important;
   }
   footer a {
     font-size: 13px !important;
@@ -998,17 +1086,41 @@ footer a,
   }
 }
 
-@keyframes fade {
+.fade_effect {
+  animation-name: fadein;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  transition: all 0.5s;
+}
+@keyframes fadein {
   0% {
-    opacity: 0;
+    transform: scaleX(1.5)
   }
   100% {
-    opacity: 1;
+    transform: scaleX(1);
   }
 }
 
-.fade_effect {
-  animation-name: fade;
-  animation-duration: 1.5s;
-  animation-fill-mode: forwards;
+.banner-nav-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.banner-nav-text {
+  animation: fadeout;
+  animation-duration: .5s;
+  animation-timing-function: ease;
+  transition: all 0.5s ease;
+}
+
+@keyframes fadeout {
+  0% {
+    left: 49%;
+  }
+  100% {
+    left: 50%;
+  }
 }

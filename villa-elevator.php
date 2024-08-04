@@ -3,9 +3,9 @@
     <div class="row position-relative">
         <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
-            <h3 class="heading">Products</h3>
-            <span>Home /  </span>
-            <span class="text-warning">Products</span>
+            <h3 class="header">Our Products</h3>
+            <span class="home">Home /  </span>
+            <span class="banner-navlink">Products</span>
         </div>
     </div>
     <div class="container wrapper">

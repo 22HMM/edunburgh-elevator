@@ -3,13 +3,13 @@
     <div class="row position-relative">
         <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
-            <h3 class="heading">Products</h3>
-            <span>Home /  </span>
-            <span class="text-warning">Products</span>
+            <h3 class="header">Our Products</h3>
+            <span class="home">Home /  </span>
+            <span class="banner-navlink">Products</span>
         </div>
     </div>
     <div class="container wrapper">
-        <div class="row">
+        <div class="row grid">
             <div class="col-md-5 col-lg-4 col-xl-3 col-sm-12 product-nav">
                 <ul class="items">
                     <li>
@@ -104,9 +104,9 @@
                     <div class="col-md-6 mb-5 pe-5">
                         <img src="./images/accessories&part3.png" alt="accessories and part 3" class="w-100">
                     </div>
-                    <div class="col-md-6 mb-5 px-5">
-                        <div class="row">
-                            <h5>Cop</h5>
+                    <div class="col-md-6 mb-5 px-5 cop">
+                        <h5>Cop</h5>
+                        <div class="row"> 
                             <li>Mimor Stainless Steel</li>
                             <li>Rosegold Mimor Stainless Steel</li>
                             <li>Coffeegold Mimor Stainless Steel</li>
@@ -114,7 +114,7 @@
                         </div>
                     
                         <div class="row">
-                            <p>Normal Button</p>
+                            <p class="col-md-12">Normal Button</p>
                             <div>
                                 <li>Round Button - MA 1001</li>
                                 <li>Round Button with Braille - MA 1004</li>

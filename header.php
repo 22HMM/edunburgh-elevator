@@ -37,8 +37,8 @@
                       </li>
                       <li class="nav-item">
                         <a class="nav-link 
-                        <?= $activePage == 'products' && $activePage=='villa-elevator' && $activePage == 'lift-platform' && $activePage == 'observation-elevator' && $activePage == 'passenger-elevator' && $activePage == 'escalators' && $activePage == 'mechanical-parking-system' && $activePage == 'accessories&parts' ? 'active' : '';?>"" href="products.php"
-                        style="<?= $activePage == 'products' ? 'border-bottom: 3px solid red;' : ''; ?>"
+                        <?= $activePage == 'products' || $activePage=='villa-elevator' || $activePage == 'lift-platform' || $activePage == 'observation-elevator' || $activePage == 'passenger-elevator' || $activePage == 'escalators' || $activePage == 'mechanical-parking-system' || $activePage == 'accessories&parts' ? 'active' : '';?>"" href="products.php"
+                        style="<?= $activePage == 'products' || $activePage=='villa-elevator' || $activePage == 'lift-platform' || $activePage == 'observation-elevator' || $activePage == 'passenger-elevator' || $activePage == 'escalators' || $activePage == 'mechanical-parking-system' || $activePage == 'accessories&parts' ? 'border-bottom: 3px solid red;' : ''; ?>"
                         >Our Products</a>
                       </li>
                       <li class="nav-item">

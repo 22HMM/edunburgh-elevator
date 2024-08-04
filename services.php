@@ -39,7 +39,7 @@
                 </div>
             </div>
         </div>
-        <div class="row px-5 pt-5">
+        <div class="row service-list px-5 pt-5">
             <ul>
                 <li>Check Elevator Control</li>
                 <li>Check Electrical Parts in Control</li>

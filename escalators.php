@@ -3,9 +3,9 @@
     <div class="row position-relative">
         <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
-            <h3 class="heading">Products</h3>
-            <span>Home /  </span>
-            <span class="text-warning">Products</span>
+            <h3 class="header">Our Products</h3>
+            <span class="home">Home /  </span>
+            <span class="banner-navlink">Products</span>
         </div>
     </div>
     <div class="container wrapper escalators">
@@ -51,7 +51,7 @@
                     <img src="./images/brown-rectangle.png" alt="brown rectangle">
                     Escalators
                 </h3>
-                <div class="row p-content">
+                <div class="row p-content main-content">
                     <div class="col-md-6">
                         <div class="m-3">
                             <img src="./images/escalator1.png" alt="escalator1" class="w-100">
@@ -78,7 +78,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row p-content mt-4">
+                <div class="row p-content mt-4 pt-3">
                     <div class="col-md-6">
                         <div class="m-3">
                             <img src="./images/escalator3.png" alt="escalator3" class="w-100">

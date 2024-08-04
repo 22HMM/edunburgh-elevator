@@ -3,9 +3,9 @@
     <div class="row position-relative">
         <img src="./images/img2 1.png" alt="banner" class="w-100">
         <div class="banner-nav-text">
-            <h3 class="heading">Products</h3>
-            <span>Home /  </span>
-            <span class="text-warning">Products</span>
+            <h3 class="header">Our Products</h3>
+            <span class="home">Home /  </span>
+            <span class="banner-navlink">Products</span>
         </div>
     </div>
     <div class="container wrapper">
@@ -56,7 +56,7 @@
                         <img src="./images/passenger-elevator1.png" alt="passenger-elevator1" class="w-100">
                     </div>
                     <div class="col-md-6 pb-5 mb-4">
-                        <div class="row pt-3">
+                        <div class="row">
                             <h5 class="pb-2 col-md-12">EC- 510 </h5>
                             <div class="mt-2 col-md-12">
                                 <span class="content-title">Ceiling : </span>
