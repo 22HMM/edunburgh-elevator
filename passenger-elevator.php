@@ -118,8 +118,7 @@
                             <div class="mt-2 col-md-12">
                                 <span class="content-title">Car Ceiling : </span>
                                 <span>
-                                    Mirror Stainless Steel, Round LED Ener-
-                                    gy-Saving Lamp (EDT-19)
+                                    Mirror Stainless Steel, Round LED Energy-Saving Lamp (EDT-19)
                                 </span>
                             </div>
                             <div class="mt-2 col-md-12">
@@ -130,7 +129,8 @@
                                 <span class="content-title">Front Wall : </span>
                                 <span>Hairline Stainless Steel</span>
                             </div>
-                            <div class="mt-2 col-md-12">Car Wall : </span>
+                            <div class="mt-2 col-md-12">
+                                <span class="content-title">Car Wall : </span>
                                 <span>
                                     Hairline Stainless Steel
                                 </span>
@@ -224,7 +224,7 @@
                         <div class="row mt-5">
                             <h5 class="pb-2 col-md-12">EC- 310  /  EC- 320 </h5>
                             <div class="mt-2 col-md-12">
-                                <span class="content-title">Ceiling : </span>
+                                <span class="content-title">Car Ceiling : </span>
                                 <span>
                                     Creamy with Pink / or Mirror Stainless Steel,
                                     LED Light

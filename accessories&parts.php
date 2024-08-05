@@ -195,7 +195,7 @@
                     </div>
                     <div class="col-md-6 pe-5 ps-2 mb-5">
                         <h5 class="heading mt-3 mb-3">Landing Hall & Hall Lantern Pattern</h5>
-                        <ul>
+                        <div>
                             <li>Mimor Stainless Steel</li>
                             <li>Mirroe Stainless Steel (horizontal Stripe etching)</li>
                             <li>Champagne gold mirror stainless steel (square/ dome etching)</li>
@@ -208,7 +208,7 @@
                             <li>EL2-02F5 - Square wall mounted bottomless box</li>
                             <li>EL2-S2 - 3D triangular wall mounted bottomless box (Arrival bell is available)</li>
                             <li>EL2-02Y2 - Hemispherical wall mounted bottomless box (arrival bell is avaliable)</li>
-                        </ul>
+                        </div>
                     </div>
                 </div>
             </div>

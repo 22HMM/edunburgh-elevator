@@ -165,7 +165,7 @@
                                 <span>Black Titanium Random Hairline Stainless Steel</span>
                             </div>
                             <div class="mt-lg-2 col-md-12">
-                                <span class="content-title">Front Door : </span>
+                                <span class="content-title">Front Wall : </span>
                                 <span>Black Titanium Random Hairline Stainless Steel</span>
                             </div>
                             <div class="mt-lg-2 col-md-12">
@@ -337,7 +337,7 @@
                     </div>
                     <div class="col-md-6 pb-5 mb-4">
                         <div class="row">
-                            <h5 class="pb-2 col-md-12 mt-3">EC- 870 </h5>
+                            <h5 class="pb-2 col-md-12 mt-3">EC- 850 </h5>
                             <div class="mt-lg-2 col-md-12">
                                 <span class="content-title">Ceiling : </span>
                                 <span> 
@@ -355,7 +355,7 @@
                             </div>
                             <div class="mt-lg-2 col-md-12">
                                 <span class="content-title">Front Wall : </span>
-                                <span>Black Titanium Hairline Stainless Steel</span>
+                                <span>Black Titanium Mirror Stainless Steel</span>
                             </div>
                             <div class="mt-lg-2 col-md-12">
                                 <span class="content-title">Side Wall & Rear Walk : </span>
@@ -381,7 +381,7 @@
                     </div>
                     <div class="col-md-6 pb-5 mb-4">
                         <div class="row">
-                            <h5 class="pb-2 col-md-12 mt-5">EC- 870 </h5>
+                            <h5 class="pb-2 col-md-12 mt-5">EC- 720 </h5>
                             <div class="mt-lg-2 col-md-12">
                                 <span class="content-title">Ceiling : </span>
                                 <span>Mirror Stainless Steel, Round LED

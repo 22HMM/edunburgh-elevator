@@ -36,7 +36,7 @@
                                 <div class="row mb-4">
                                     <div class="col-md-12 form-group">
                                         <lable class="form-label" for="username">Subject * </lable>
-                                        <input type="subject" name="username" id="" class="form-control" placeholder="Enter Subject">
+                                        <input type="text" name="subject" id="" class="form-control" placeholder="Enter Subject">
                                     </div>
                                 </div>
                                 <div class="row mb-4">

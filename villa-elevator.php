@@ -118,10 +118,6 @@
                                 </span>
                             </div>
                             <div class="mt-2 col-md-12">
-                                <span class="content-title">Ventilator : </span>
-                                <span>Axial Flow Fan at Both Sides</span>
-                            </div>
-                            <div class="mt-2 col-md-12">
                                 <span class="content-title">Car Door : </span>
                                 <span>Rose Gold Random Hairline Stainless Steel</span>
                             </div>
