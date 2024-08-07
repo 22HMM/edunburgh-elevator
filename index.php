@@ -4,7 +4,7 @@
         <img src="./images/banner.png" alt="banner" class="w-100">
         <div class="row">
             <div class="col-md-6">
-                <h3 class="banner-heading col-md-3 col-sm-6">Using Technologies to Breed Modern Life Happiness</h3>
+                <h3 class="banner-heading">Using Technologies to <br> Breed Modern Life Happiness</h3>
             </div>
             <div class="col-md-6 col-sm-12 mx-3 banner-images">
                 <div id="carouselId" class="carousel carousel-fade" data-bs-ride="carousel" data-bs-interval="3500" data-bs-pause="true">
@@ -13,39 +13,39 @@
                         <div class="carousel-item active">
                             <div class="row g-lg-2 g-md-3 g-sm-1">
                                 <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/banner-image1.png" alt="banner-image1" class="w-100 h-100">
+                                    <img src="./images/banner-image1.png" alt="banner-image1" class="w-100" height="381px">
                                 </div>
                                 <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/banner-image2.png" alt="banner-image2" class="w-100 h-100">
+                                    <img src="./images/banner-image2.png" alt="banner-image2" class="w-100" height="381px">
                                 </div>
                                 <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/banner-image3.png" alt="banner-image3" class="w-100 h-100">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="row g-lg-2 g-md-3 g-sm-1">
-                                <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/villa-elevator1.png" alt="villa elevator" class="w-100 h-100">
-                                </div>
-                                <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/high-end-car-p7.png" alt="high end car" class="w-100 h-100">
-                                </div>
-                                <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/passenger-elevator1.png" alt="passenger-elevator1" class="w-100 h-100">
+                                    <img src="./images/banner-image3.png" alt="banner-image3" class="w-100" height="381px">
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="row g-lg-2 g-md-3 g-sm-1">
                                 <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/escalator1.png" alt="escalator1" class="w-100" height="321px">
+                                    <img src="./images/villa-elevator1.png" alt="villa elevator" class="w-100 h-100" height="381px">
                                 </div>
                                 <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/parking2.png" alt="parking 2" class="w-100" height="321px">
+                                    <img src="./images/high-end-car-p7.png" alt="high end car" class="w-100" height="381px">
                                 </div>
                                 <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/parking3.png" alt="parking 3" class="w-100" height="321px">
+                                    <img src="./images/passenger-elevator1.png" alt="passenger-elevator1" class="w-100" height="381px">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row g-lg-2 g-md-3 g-sm-1">
+                                <div class="col-md-4 col-sm-4 fade_effect">
+                                    <img src="./images/escalator1.png" alt="escalator1" class="w-100" height="381px">
+                                </div>
+                                <div class="col-md-4 col-sm-4 fade_effect">
+                                    <img src="./images/parking2.png" alt="parking 2" class="w-100" height="381px">
+                                </div>
+                                <div class="col-md-4 col-sm-4 fade_effect">
+                                    <img src="./images/parking3.png" alt="parking 3" class="w-100" height="381px">
                                 </div>
                             </div>
                         </div>

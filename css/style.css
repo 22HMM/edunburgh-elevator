@@ -1095,9 +1095,15 @@ footer a,
 @keyframes fadein {
   0% {
     opacity: 0;
+    transition: all 1s;
+  }
+  50% {
+    opacity: 0.5;
+    transition: all 1s;
   }
   100% {
     opacity: 1;
+    transition: all 1s;
   }
 }
 
