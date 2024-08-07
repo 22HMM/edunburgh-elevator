@@ -9,8 +9,8 @@
         </div>
     </div>
     <div class="container wrapper pe-4">
-        <div class="row justify-content-between">
-            <div class="col-md-5">
+        <div class="row">
+            <div class="col-md-6 pe-5">
                 <img src="./images/about-image.png" alt="content-image2" class="ps-2 w-100 h-100">
             </div>
             <div class="col-md-6 content1">

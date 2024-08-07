@@ -45,57 +45,8 @@ main .banner-heading {
   line-height: 45px;
   text-align: center;
 }
-main .box {
-  width: 100px;
-  height: 100px;
-  padding-left: 10px;
-}
-main .box1,
-main .box2,
-main .box3 {
-  position: relative;
-  animation: fadeinout 10s infinite;
-  opacity: 0;
-}
-main .box4,
-main .box5,
-main .box6 {
-  width: 120px;
-  height: 120px;
-  position: absolute;
-  animation: fadeinout 15s infinite;
-  opacity: 1;
-}
-main .box4 {
-  top: 0;
-  left: 0;
-}
-main .box5 {
-  top: 0;
-  left: 120px;
-}
-main .box6 {
-  top: 0;
-  left: 220px;
-}
-
-@keyframes fadeinout {
-  50% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 0;
-    left: 220px;
-  }
-}
-main .box1 {
-  background-color: rgb(72, 163, 243);
-}
-main .box2 {
-  background-color: rgb(252, 54, 54);
-}
-main .box3 {
-  background-color: aquamarine;
+.fade_effect img {
+  aspect-ratio: 2/3;
 }
 main .banner-images {
   position: absolute;
@@ -430,7 +381,7 @@ footer {
   font-size: var(--main-font);
 }
 footer .container {
-  padding: 40px 0;
+  padding: 65px 0;
 }
 footer .footer-heading {
   font-size: 20px;
@@ -609,7 +560,7 @@ footer a,
     left: 15px;
   }
   main .banner-images img {
-    height: 232px !important;
+    height: 200px !important;
   }
   main .about-content .main-content {
     justify-content: space-between !important;

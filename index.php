@@ -13,39 +13,39 @@
                         <div class="carousel-item active">
                             <div class="row g-lg-2 g-md-3 g-sm-1">
                                 <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/banner-image1.png" alt="banner-image1" class="w-100" height="381px">
+                                    <img src="./images/banner-image1.png" alt="banner-image1" class="w-100">
                                 </div>
                                 <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/banner-image2.png" alt="banner-image2" class="w-100" height="381px">
+                                    <img src="./images/banner-image2.png" alt="banner-image2" class="w-100">
                                 </div>
                                 <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/banner-image3.png" alt="banner-image3" class="w-100" height="381px">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="row g-lg-2 g-md-3 g-sm-1">
-                                <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/villa-elevator1.png" alt="villa elevator" class="w-100 h-100" height="381px">
-                                </div>
-                                <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/high-end-car-p7.png" alt="high end car" class="w-100" height="381px">
-                                </div>
-                                <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/passenger-elevator1.png" alt="passenger-elevator1" class="w-100" height="381px">
+                                    <img src="./images/banner-image3.png" alt="banner-image3" class="w-100">
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="row g-lg-2 g-md-3 g-sm-1">
                                 <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/escalator1.png" alt="escalator1" class="w-100" height="381px">
+                                    <img src="./images/villa-elevator1.png" alt="villa elevator" class="w-100">
                                 </div>
                                 <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/parking2.png" alt="parking 2" class="w-100" height="381px">
+                                    <img src="./images/high-end-car-p7.png" alt="high end car" class="w-100">
                                 </div>
                                 <div class="col-md-4 col-sm-4 fade_effect">
-                                    <img src="./images/parking3.png" alt="parking 3" class="w-100" height="381px">
+                                    <img src="./images/passenger-elevator1.png" alt="passenger-elevator1" class="w-100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row g-lg-2 g-md-3 g-sm-1">
+                                <div class="col-md-4 col-sm-4 fade_effect">
+                                    <img src="./images/escalator1.png" alt="escalator1" class="w-100">
+                                </div>
+                                <div class="col-md-4 col-sm-4 fade_effect">
+                                    <img src="./images/parking2.png" alt="parking 2" class="w-100">
+                                </div>
+                                <div class="col-md-4 col-sm-4 fade_effect">
+                                    <img src="./images/parking3.png" alt="parking 3" class="w-100">
                                 </div>
                             </div>
                         </div>
@@ -67,14 +67,14 @@
         </div>
     </div>
     <div class="container about-content">
-        <div class="row pb-5">
-            <div class="col-md-6 position-relative">
+        <div class="row py-5">
+            <div class="col-md-6 mb-5 position-relative">
                 <div class="d-flex justify-content-end">
                     <img src="./images/content-image2.png" alt="content-image-1" class="content-image">
                 </div>
                 <img src="./images/ele 1.png" alt="ele1" class="elevator-image">
             </div>
-            <div class="col-md-6 content">
+            <div class="col-md-6 mb-5 content">
                 <h3 class="heading">About Edunburgh</h3>
                 <p class="pb-4">
                     Edunburgh Elevator Group INC. (Edunburgh Elevator for short) is a professional chain group of joint-stock company who is focus on elevator R&D and manufacturing of the entire industrial. Edunburgh Elevator head- quartered in Shanghai,
