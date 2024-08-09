@@ -7,10 +7,10 @@
                 <h1 class="banner-heading">Using Technologies to <br> Breed Modern Life Happiness</h1>
             </div>
             <div class="col-md-6 col-sm-12 mx-3 banner-images">
-                <div id="carouselId" class="carousel carousel-fade" data-bs-ride="carousel" data-bs-interval="3500" data-bs-pause="true">
+                <div id="carouselId" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
                     <div class="carousel-inner" role="listbox">
-                        <div class="carousel-item active">
+                        <div class="carousel-item active" data-bs-interval="3500">
                             <div class="row g-lg-4 g-md-3 g-2">
                                 <div class="col-md-4 col-sm-4 fade_effect">
                                     <img src="./images/banner-image1.png" alt="banner-image1" class="w-100 slider-img">
@@ -23,7 +23,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="carousel-item">
+                        <div class="carousel-item" data-bs-interval="3500">
                             <div class="row g-lg-4 g-md-3 g-2">
                                 <div class="col-md-4 col-sm-4 fade_effect">
                                     <img src="./images/villa-elevator1.png" alt="villa elevator" class="w-100 slider-img">
@@ -36,7 +36,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="carousel-item">
+                        <div class="carousel-item" data-bs-interval="3500">
                             <div class="row g-lg-4 g-md-3 g-2">
                                 <div class="col-md-4 col-sm-4 fade_effect">
                                     <img src="./images/escalator1.png" alt="escalator1" class="w-100 slider-img">
@@ -209,4 +209,5 @@
         </div>
     </div>
 </main>
+<script src="./js/script.js"></script>
 <?php include_once('footer.php') ?>

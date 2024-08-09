@@ -1024,25 +1024,12 @@ footer a,
   }
 }
 
-.fade_effect {
-  animation-name: fadein;
-  animation-duration: 2s;
-  animation-fill-mode: forwards;
-  transition: all 0.5s;
+.carousel-item {
+  transition: transform 3s ease-in-out;
 }
-@keyframes fadein {
-  0% {
-    opacity: 0;
-    transition: all 1s;
-  }
-  50% {
-    opacity: 0.5;
-    transition: all 1s;
-  }
-  100% {
-    opacity: 1;
-    transition: all 1s;
-  }
+.carousel-fade .active.carousel-item-start,
+.carousel-fade .active.carousel-item-end {
+  transition: opacity 0s 3s ease-in-out;
 }
 
 .banner-nav-text {

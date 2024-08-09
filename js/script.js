@@ -1,13 +1,38 @@
-document.addEventListener("DOMContentLoaded", function() {
-    const boxes1to3 = document.querySelectorAll('.box1, .box2, .box3');
-    const boxes4to6 = document.querySelectorAll('.box4, .box5, .box6');
+// window.addEventListener('load', function() {
+//     autoSlide();
+// });
 
-    function toggleVisibility() {
-        boxes1to3.forEach(box => box.style.opacity = 1);
-        boxes4to6.forEach(box => box.style.opacity = 0);
-    }
 
-    boxes4to6.forEach(box => {
-        box.addEventListener('animationiteration', toggleVisibility);
-    });
-})
+// function autoSlide() {
+//     setTimeout(() => {
+//         slide(getItemActiveIndex() + 1)
+//     }, 1000);
+// }
+
+// function slide(toIndex) {
+//     const itemArray = Array.from(document.querySelectorAll('.carousel_item'));
+//     const itemActive = document.querySelector('.active');
+//     if(toIndex >= itemArray.length) {
+//         toIndex = 0;
+//     }
+//     const newItemActive = itemArray(toIndex);
+//     newItemActive.classList.add('.carousel_item_pos_next');
+//     setTimeout(() => {
+//         newItemActive.classList.add('carousel_item_next');
+//         itemActive.classList.add('carousel_item_next');
+//     }, 20);
+
+//     newItemActive.addEventLisener('transitionend', () => {
+//         itemActive.className = 'carousel_item';
+//         newItemActive.className = 'carousel_item active';
+//     }, {
+//         once: true
+//     })
+// }
+
+// function getItemActiveIndex() {
+//     const itemArray = Array.from(document.querySelectorAll('.carousel_item'));
+//     const itemActive = document.querySelector('.active');
+//     const itemActiveIndex = itemArray.indexOf(itemActive);
+//     return itemActiveIndex;
+// }
